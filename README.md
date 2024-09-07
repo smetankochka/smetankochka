@@ -10,5 +10,7 @@
 - Python
 - Go
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smetankochka&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smetankochka)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=smetankochka)](https://github.com/anuraghazra/github-readme-stats)

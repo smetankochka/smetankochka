@@ -1,8 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+all)](https://git.io/typing-svg)
 
-## - 🤔 I'm currently studying at University School of the Far Eastern Federal University, previously studied at SESC NSU(yeah, my mistake)
-## - 🔭 I'm currently working on programming competitions, golang language and computer vision.
-
+## - 🤔 I'm currently studying at ITMO University, previously studied at SESC NSU, FEFU school.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smetankochka)](https://git.io/streak-stats)
 
